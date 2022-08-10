@@ -271,9 +271,7 @@
 
             <!-- EXPERIENCIA -->
             <div class="tab-pane fade py-3 px-4" id="experiencia" role="tabpanel" aria-labelledby="experiencia-tab">Lorem
-                ipsum dolor sit amet consectetur adipisicing elit. Voluptate, debitis rerum quod eligendi minima impedit
-                provident magnam distinctio omnis. Ullam ducimus nobis architecto dolorum officiis cupiditate veniam nihil
-                molestiae iusto.
+                ipsum dolor sit amet consectetur adipisicing elit.
                 <div class="col-md-4">
                     <div class="my-4">
                         <a href="{{ url('/persoas/index') }}" class="btn btn-default">VOLVER</a>
